@@ -27,9 +27,6 @@ A modern, responsive website for Government Engineering College Barmer, built wi
   - Image optimization
   - SEO friendly
 
-## 🚀 Live Demo
-
-Visit the live website: [clg-website](https://college-website-pd4czgj4p-aarin-mahalas-projects.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -64,8 +61,6 @@ Visit the live website: [clg-website](https://college-website-pd4czgj4p-aarin-ma
    ```bash
    npm run dev
    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 🔧 Environment Variables
 
