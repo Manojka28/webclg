@@ -29,7 +29,7 @@ A modern, responsive website for Government Engineering College Barmer, built wi
 
 ## 🚀 Live Demo
 
-Visit the live website: [GEC Barmer Website](https://college-website-pd4czgj4p-aarin-mahalas-projects.vercel.app)
+Visit the live website: [clg-website](https://college-website-pd4czgj4p-aarin-mahalas-projects.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -50,11 +50,12 @@ Visit the live website: [GEC Barmer Website](https://college-website-pd4czgj4p-a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aarinmahala/gec-barmer-website.git
+    https://github.com/Manojka28/webclg
    ```
 
 2. Install dependencies:
    ```bash
+   https://github.com/Manojka28/webclg
    cd college-website
    npm install
    ```
@@ -102,9 +103,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Aarin Mahala - [GitHub Profile](https://github.com/Aarinmahala)
+Manoj Kumar -- https://github.com/Manojka28
 
 ## 🙏 Acknowledgments
 
-- Government Engineering College Barmer
+- friends and batchmates
 - All contributors and supporters
